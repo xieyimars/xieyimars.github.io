@@ -1,6 +1,6 @@
 
 
-[![XieYi](https://img.shields.io/badge/XieYi-github-blue?logo=github)](https://github.com/xieyimars)
+[![Xieyi](https://img.shields.io/badge/XieYi-github-blue?logo=github)](https://github.com/xieyimars)
 
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
