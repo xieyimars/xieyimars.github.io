@@ -1,6 +1,6 @@
 
 
-[![senli1073](http://xieyimars.blog.csdn.net)](https://github.com/xieyimars)
+[![XieYi](http://xieyimars.blog.csdn.net)](https://github.com/xieyimars)
 
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
